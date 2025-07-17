@@ -9,16 +9,12 @@
 
 El objetivo principal es ayudar a los usuarios a elegir el mejor momento y lugar para disfrutar de su deporte favorito.
 
-Además de la previsión meteorológica, **Wavely incorpora otras funcionalidades pensadas para mejorar la experiencia del usuario**, como la gestión de favoritos, creación de perfiles y otras herramientas útiles.  
-Algunas de estas características se reservan por motivos de privacidad y están disponibles solo bajo demostración o contacto directo.
-
+Además de la previsión meteorológica, **Wavely incorpora otras funcionalidades avanzadas pensadas para mejorar la experiencia del usuario**,algunas de estas características se reservan por motivos de privacidad.
 ---
 
 ## 🔒 Repositorio privado
 
 Por razones de confidencialidad y protección del trabajo original, este repositorio se encuentra **en privado**. El código fuente no es público, pero puedo compartir fragmentos o explicaciones técnicas bajo solicitud.
-
-Estoy desarrollando también un repositorio público complementario donde mostraré parte del flujo de trabajo, UI y fragmentos de lógica de negocio.
 
 ---
 
@@ -41,7 +37,7 @@ Más capturas estarán disponibles próximamente. Actualmente están limitadas d
 - Core Data  
 - API REST para datos climáticos y oceánicos  
 
-### 🌐 Backend (ServerSide)
+###  Backend (ServerSide)
 - Vapor (framework en Swift para servidores)
 - SQLite como base de datos local
 - API propia para gestión de usuarios, autenticación y lógica de negocio
@@ -58,7 +54,7 @@ Más capturas estarán disponibles próximamente. Actualmente están limitadas d
 
 ---
 
-Si eres **recruiter** o estás interesado en conocer más sobre este proyecto, no dudes en escribirme. Estoy encantado de mostrar cómo trabajo y explicar las decisiones técnicas tomadas durante el desarrollo.
+Si eres **recruiter** o estás interesado en conocer más sobre este proyecto, no dudes en escribirme. Estoy encantado de explicar las decisiones técnicas tomadas durante el desarrollo.
 
 ---
 
