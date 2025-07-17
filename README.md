@@ -58,4 +58,4 @@ Si eres **recruiter** o estás interesado en conocer más sobre este proyecto, n
 
 ---
 
-> _Wavely nace del amor por el mar, el diseño limpio y el desarrollo funcional 💙_
+> _Wavely nace del amor por el mar, el diseño limpio y el desarrollo funcional 🌊_
