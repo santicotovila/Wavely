@@ -16,7 +16,7 @@ For confidentiality and protection of the original work, this repository is **pr
 
 - Wave height  
 - Wind direction and speed  
-- Air and water temperature 🌡  
+- Air and water temperature   
 - Cloud coverage  
 - Tides  
 
