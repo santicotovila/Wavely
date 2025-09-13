@@ -1,61 +1,61 @@
-# 🌊 Wavely – App para Deportes Acuáticos
+#  Wavely – App for Water Sports
 
-**Wavely** es una aplicación móvil diseñada para deportistas del agua como surfistas, kitesurfistas, windsurfistas y amantes del mar. La app ofrece información en tiempo real sobre condiciones meteorológicas y oceánicas, incluyendo:
+##  Screenshots
 
-- Altura de olas 🌊  
-- Dirección y velocidad del viento 💨  
-- Temperatura del aire y del agua 🌡️  
-- Nubosidad ☁️  
+<img width="320" height="630" alt="Login" src="https://github.com/user-attachments/assets/ee2820cf-4304-4b19-b81d-849cabcccc9f" />
+<img width="312" height="626" alt="Forecasts" src="https://github.com/user-attachments/assets/cbe790be-1a7b-4b31-8bc0-ad10494237c2" />
+<img width="311" height="629" alt="Search" src="https://github.com/user-attachments/assets/d2efe56f-ecbe-4a60-877
+<img width="317" height="650" alt="Screenshot 2025-09-13 at 19 11 09" src="https://github.com/user-attachments/assets/8be85edb-b533-426b-b8e6-44079375a8d6" />
+f-dc36eb361e24" />
+<img width="319" height="648" alt="Date" src="https://github.com/user-attachments/assets/915e8750-e253-4162-b141-fadbc65e857b" />
 
-El objetivo principal es ayudar a los usuarios a elegir el mejor momento y lugar para disfrutar de su deporte favorito.
+## 🔒 Private Repository
 
-Además de la previsión meteorológica, **Wavely incorpora otras funcionalidades avanzadas pensadas para mejorar la experiencia del usuario**,algunas de estas características se reservan por motivos de privacidad.
----
-
-## 🔒 Repositorio privado
-
-Por razones de confidencialidad y protección del trabajo original, este repositorio se encuentra **en privado**. El código fuente no es público, pero puedo compartir fragmentos o explicaciones técnicas bajo solicitud.
+For confidentiality and protection of the original work, this repository is **private**. The source code is not public, but I can share snippets or technical explanations upon request.
 
 ---
 
-## 🖼️ Capturas de pantalla
+**Wavely** is a mobile application designed for water sports enthusiasts. The app provides real-time information about weather and ocean conditions, including:
 
-<img width="357" height="761" alt="Screenshot 2025-07-17 at 13 59 17" src="https://github.com/user-attachments/assets/78a6fa2e-59ad-4f75-8181-55dce7b5895d" />
-<img width="357" height="761" alt="Screenshot 2025-07-17 at 13 59 07" src="https://github.com/user-attachments/assets/a9e79c42-9d2c-4a28-a1e9-275f911f7441" />
+- Wave height  
+- Wind direction and speed  
+- Air and water temperature 🌡  
+- Cloud coverage  
+- Tides  
 
-Más capturas estarán disponibles próximamente. Actualmente están limitadas debido a cambios activos en el diseño y a la naturaleza privada de algunas funcionalidades.
+Everything you need in one app, designed for surfers, kitesurfers, windsurfers, and ocean lovers ✌🏾  
 
----
+In addition to weather forecasts, **Wavely includes other advanced features aimed at enhancing the user experience**, some of which are reserved for project confidentiality.
 
-## 🛠️ Tecnologías utilizadas
+##  Technologies Used
 
-###  Cliente 
+###  Client  
 - Swift & SwiftUI  
 - Combine  
-- Arquitectura MVVM  
+- MVVM Architecture  
 - Core Location  
-- Core Data  
-- API REST para datos climáticos y oceánicos  
+- Swift Data  
+- REST API for weather and ocean data  
 
-###  Backend (ServerSide)
-- Vapor (framework en Swift para servidores)
-- SQLite como base de datos local
-- API propia para gestión de usuarios, autenticación y lógica de negocio
-- JSON Web Tokens (JWT) para manejo de sesiones
-- Firebase (para notificaciones push y analítica)
-
----
-
-## 🚧 Estado del proyecto
-
-- 🛠 En desarrollo activo  
-- 🎨 Diseño y funcionalidades en evolución  
-- 🔐 Parte del contenido reservado por confidencialidad
+###  Backend (ServerSide)  
+- Vapor (server-side Swift framework)  
+- PostgreSQL as the database  
+- JSON Web Tokens (JWT) for session management  
+- Firebase (for push notifications and analytics)  
 
 ---
 
-Si eres **recruiter** o estás interesado en conocer más sobre este proyecto, no dudes en escribirme. Estoy encantado de explicar las decisiones técnicas tomadas durante el desarrollo.
+##  Project Status  
+
+-  Under active development  
+-  Design and features evolving  
+- 🔐 Some content reserved for confidentiality  
 
 ---
 
-> _Wavely nace del amor por el mar, el diseño limpio y el desarrollo funcional 🌊_
+If you are a **recruiter** or interested in learning more about this project, feel free to reach out. I’d be happy to explain the technical decisions made during development.
+
+---
+
+> _Wavely was born from the love for the sea, clean design, and functional development 🌊_
+
