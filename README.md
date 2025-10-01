@@ -1,8 +1,9 @@
 #  Wavely – App for Water Sports
 
-##  Screenshots
 
-<img width="320" height="630" alt="Login" src="https://github.com/user-attachments/assets/ee2820cf-4304-4b19-b81d-849cabcccc9f" /><img width="262" height="537" alt="Forecasts" src="https://github.com/user-attachments/assets/50a639c9-dadf-4d3b-97f7-a8ecaad3d7ac" /><img width="311" height="629" alt="Search" src="https://github.com/user-attachments/assets/f65c02e5-4451-48fa-8091-53df7aba6f7b" /> <img width="317" height="650" alt="Screenshot 2025-09-13 at 19 11 09" src="https://github.com/user-attachments/assets/debd0885-5c3c-4048-b328-ee28ce2c1982" /> <img width="319" height="648" alt="Date" src="https://github.com/user-attachments/assets/38273afe-42a0-4cfe-b578-5eb8f11d5315" />
+
+<img width="320" height="630" alt="Login" src="https://github.com/user-attachments/assets/ee2820cf-4304-4b19-b81d-849cabcccc9f" /><img width="354" height="721" alt="Home" src="https://github.com/user-attachments/assets/a7762b91-1522-426e-98d0-d7960afa92cf" />
+<img width="311" height="629" alt="Search" src="https://github.com/user-attachments/assets/f65c02e5-4451-48fa-8091-53df7aba6f7b" /> <img width="317" height="650" alt="Screenshot 2025-09-13 at 19 11 09" src="https://github.com/user-attachments/assets/debd0885-5c3c-4048-b328-ee28ce2c1982" /> <img width="319" height="648" alt="Date" src="https://github.com/user-attachments/assets/38273afe-42a0-4cfe-b578-5eb8f11d5315" />
 
 
 
